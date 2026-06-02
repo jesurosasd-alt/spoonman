@@ -1,9 +1,9 @@
 ---
-title: "Sources"
+title: "Bibliography"
 ---
 
- 
+Stone, Rebecca. 2013. *Art of the Andes: From Chavín to Inca*. 3rd ed. London: Thames & Hudson.
 
-Carmichael, Patrick H. 2016. "Nasca Origins and Paracas Progenitors." *Ñawpa Pacha* 36 (2): 53 – 94. [https://doi.org/10.1080/00776297.2016.1239874](https://doi.org/10.1080/00776297.2016.1239874).
+Valdez, Lidio M. 2009. "Social Significance of the Early Nasca Ceramics in the Acari Valley, Peru." *Revista Chilena de Antropología*, no. 20. [https://revistadeantropologia.uchile.cl/index.php/RCA/article/view/14157](https://revistadeantropologia.uchile.cl/index.php/RCA/article/view/14157)
 
-Townsend, Richard F. "Deciphering the Nazca World: Ceramic Images from Ancient Peru." *Art Institute of Chicago Museum*.
+Vaughn, Kevin J., and Hector Neff. 2004. "Tracing the Clay Source of Nasca Polychrome Pottery: Results from a Preliminary Raw Material Survey." *Journal of Archaeological Science* 31 (11): 1577 – 1586. [https://doi.org/10.1016/j.jas.2004.03.021](https://doi.org/10.1016/j.jas.2004.03.021).
